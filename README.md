@@ -1,9 +1,8 @@
   <pre><code>
-  public class Human {
-  	InspirationOfLife love;
-  	GuideOfLife knowledge;
-	  static life(love, knowledge) {
-		return goodLife;
-    	}
-    }
+	class Human implements Life { 
+		public class GoodLife {
+   			 Life inspiration = new Love();
+   			 Life guide = new Knowledge();
+		}
+	}
   </code></pre>
