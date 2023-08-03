@@ -1,4 +1,4 @@
-  <pre><code>
+  ```javascript
 	class Human implements Life { 
 		public class GoodLife {
    			 Life inspiration = new Love();
@@ -6,7 +6,7 @@
 		}
 	}
 	// The good life is one inspired by love and guided by knowledge. - Bertrand Russell  
-  </code></pre>
+  ```
 
 
 
