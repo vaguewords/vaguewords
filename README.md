@@ -5,13 +5,12 @@
     
   </head>
   <body>
-    <header><img src="laptop.png"></header>
-     <div>
+     <header>
       <h2>The good life is one inspired by love and guided by knowledge.</h2>
-    </div>
-    <div align="right">
+     </header>
+    <footer>
       <h5>Bertrand Russell</h5>
-    </div>
+    </footer>
   </body>
   
 </html>
