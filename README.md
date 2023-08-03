@@ -6,7 +6,7 @@
   </head>
   <body>
     <div align="center">
-      <h1>Hi</h1>
+      <h4>Fools and fanatics are always so certain of themselves...</h4><h2><i>WISER</i> people are so full of doubts.</h2>
     </div>
   </body>
   
