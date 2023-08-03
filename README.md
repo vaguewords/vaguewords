@@ -5,8 +5,11 @@
     
   </head>
   <body>
-    <div align="center">
-      <h4>Fools and fanatics are always so certain of themselves...</h4><h2><i>WISER</i> people are so full of doubts.</h2>
+    <div>
+      <h2>The good life is one inspired by love and guided by knowledge.</h2>
+    </div>
+    <div align="right">
+      <h5>Bertrand Russell</h5>
     </div>
   </body>
   
